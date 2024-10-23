@@ -1,6 +1,6 @@
 #### 🔮CORREOS TEMPORALES🔮
 
-######¿Qué Hace Este Script? El script esta diseñado para hacer correos temporales para distintos usos sin la necesidad de utilizar nuestro correo personal.
+###### ¿Qué Hace Este Script? El script esta diseñado para hacer correos temporales para distintos usos sin la necesidad de utilizar nuestro correo personal.
 
 ### 🔮 INSTALACION: 🔮
 
