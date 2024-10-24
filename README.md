@@ -15,7 +15,7 @@ apt install git -y
 
 pip install requests
 
-git clone https://github.com/Angel-iluminaty/mmail/tree/main
+git clone https://github.com/Angel-iluminaty/mmail.git
 
 cd mmail
 
